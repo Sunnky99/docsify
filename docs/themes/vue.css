@@ -1,0 +1,9 @@
+.markdown-section p.warn {
+    background: #d3d5de;
+    border-radius: 2px;
+    padding: 1rem;
+  }
+  :root {
+    --docsifytabs-border-color: #ededed;
+    --docsifytabs-tab-highlight-color: #191970;
+  }
